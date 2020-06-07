@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ryba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ryba\\.nuget\\packages"
+    ]
+  }
+}
